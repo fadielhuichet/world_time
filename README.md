@@ -1,16 +1,12 @@
-# world_time
+🌍 World Time App
 
-A new Flutter project.
+A simple and elegant Flutter application that displays the current time for different cities around the world.
+Users can choose their location, and the app automatically updates the background (day/night) and flag based on the selected country.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Fetches real-time data from the WorldTime API
+✅ Beautiful day/night background switching
+✅ Supports multiple countries and time zones
+✅ Simple navigation and state management
+✅ Built with clean, responsive UI using Flutter’s Material components
