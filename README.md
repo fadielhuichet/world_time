@@ -15,9 +15,4 @@ Users can choose their location, and the app automatically updates the backgroun
 
 ---
 
-## ⚙️ Installation
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/fadielhuichet/repo.git
-   cd repo
